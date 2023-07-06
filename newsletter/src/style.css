@@ -1,0 +1,7 @@
+.img-desktop {
+    width: auto;
+    height: auto;
+    background-image: url('../images/icon-arrow-down.svg');
+    background-repeat: no-repeat;
+    background-color: red;
+}
