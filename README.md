@@ -1,6 +1,7 @@
 # Frontend Mentor - QR code component
 
 <a href="https://jgabriel963.github.io/Front-End_Mentor/QR_Code">QR_Code</a>
+<a href="https://jgabriel963.github.io/Front-End_Mentor/newsletter">Newsletter</a>
 
 ![Design preview for the QR code component coding challenge](./design/desktop-preview.jpg)
 
